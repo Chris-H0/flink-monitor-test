@@ -1,0 +1,4 @@
+server.port: 8080
+
+flink.base-url: http://localhost:8081        # REST endpoint
+monitor.poll-ms: 30000                       # 30-second loop
